@@ -1,2 +1,2 @@
 # SpringBootCrud
-Crud Basics with Entity Manager
+Crud Basics with Entity Manager and JPA
